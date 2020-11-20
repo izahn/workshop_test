@@ -1,0 +1,1 @@
+Git is really designed to track changes to text files -- you can include images, video etc. but you won't be able to see what changed.
